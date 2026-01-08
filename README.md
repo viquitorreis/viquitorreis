@@ -12,13 +12,14 @@ I build backend systems with Go. Spent the last few years making NIR spectroscop
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
+!![Redis](https://img.shields.io/badge?style=flat&redis=grpc&logoColor=white)
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viquitorreis)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current interests
 
-Distributed systems and network programming. The kind of problems where eventual consistency isn't just a buzzword, it's Tuesday.
+Distributed systems and network programming.
 
-Working on understanding how things actually work - from TCP handshakes to consensus algorithms. Reading papers, implementing toy versions, breaking things to see why they break.
+Working on understanding how things actually work. from TCP handshakes to consensus algorithms. Reading papers, implementing, breaking things to see why they break.
 
 ---
