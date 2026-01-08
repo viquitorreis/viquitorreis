@@ -19,6 +19,6 @@ I build backend systems with Go. Spent the last few years making NIR spectroscop
 
 Distributed systems and network programming.
 
-Working on understanding how things actually work. from TCP handshakes to consensus algorithms. Reading papers, implementing, breaking things to see why they break.
+Working on understanding how things actually work. Learning, Reading and implementing, breaking things to see why they break.
 
 ---
