@@ -13,7 +13,7 @@ I build backend systems with Go. Spent the last few years making NIR spectroscop
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=grpc&logoColor=white)
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viquitorreis)](https://github.com/anuraghazra/github-readme-stats)
+# [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viquitorreis)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Current interests
 
