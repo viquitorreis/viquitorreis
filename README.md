@@ -4,7 +4,7 @@ Creator from Brazil.
 
 ### What I actually do
 
-I build backend systems with Go. Spent the last few years making systems that handled NIR spectroscopy data work at scale, handling real-time processing and inference architecture for agricultural analysis (online and offline). Moved entire platforms between clouds without breaking shit. Built sync systems using gRPC for offline mobile devices that needed to eventually be consistent.
+I build backend and distributed systems with Go. Spent the last few years making systems that handled NIR spectroscopy data work at scale, handling real-time processing and inference architecture for agricultural analysis (online and offline). Moved entire platforms between clouds without breaking shit. Built sync systems using gRPC for offline mobile devices that needed to eventually be consistent.
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
