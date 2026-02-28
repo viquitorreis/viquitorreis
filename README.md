@@ -18,7 +18,7 @@ I build backend and distributed systems with Go. Spent the last few years making
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viquitorreis&layout=compact&hide=javascript,typescript,python,html,css&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=viquitorreis&layout=compact&hide=javascript,typescript,python,html,css&langs_count=8)
 
 <!-- [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viquitorreis)](https://github.com/anuraghazra/github-readme-stats) -->
 
