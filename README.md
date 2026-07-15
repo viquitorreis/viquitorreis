@@ -1,7 +1,5 @@
 Creator from Brazil.
 
-Passionate about Network Programming, Distributed Systems, Systems Programming, Backend.
-
 Building coffeeplace
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
