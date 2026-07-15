@@ -22,4 +22,4 @@ Building coffeeplace
 
 ### Current interests
 
-Distributed systems and network programming.
+Network Programming, Distributed Systems, Systems Programming, Backend.
