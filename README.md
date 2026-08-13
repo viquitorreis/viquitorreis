@@ -14,7 +14,7 @@ Building coffeeplace
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 
-![Top Languages](https://github-readme-stats-kappa-olive-20.vercel.app/api/top-langs/?username=viquitorreis&layout=compact&hide=javascript,typescript,python,html,css,dart,astro,NSIS,PowerShell,Swift,EJS,Java,templ,Ruby,Kotlin,Dockerfile&langs_count=10)
+![Top Languages](https://github-readme-stats-kappa-olive-20.vercel.app/api/top-langs/?username=viquitorreis&layout=compact&hide=javascript,typescript,python,html,css,dart,astro,NSIS,PowerShell,Swift,EJS,Java,templ,Ruby,Kotlin,Dockerfile,Objective-C&langs_count=10)
 
 <!-- [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=viquitorreis)](https://github.com/anuraghazra/github-readme-stats) -->
 
